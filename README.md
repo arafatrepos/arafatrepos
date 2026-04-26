@@ -48,7 +48,7 @@ Currently: Deepening SOC L1/L2 skills, building home lab environments, and targe
 🔬  Building a SOC Home Lab with Splunk + Wazuh + custom detection rules
 🐛  Practicing web app exploitation labs (OWASP Top 10 focus)
 🤖  Experimenting with AI-assisted threat hunting workflows
-📚  Pursuing CompTIA Cysa+ & Azure certifications
+📚  Pursuing CompTIA  & Azure certifications
 ```
 
 ---
@@ -180,7 +180,7 @@ Building a virtualized SOC environment to simulate real attack scenarios and pra
 | 🎓 MEng — Information Systems Security | Concordia University | ✅ Completed |
 | 🛡️ Certified in Cybersecurity (CC) | ISC² | ✅ Earned |
 | ⚔️ eJPT — Junior Penetration Tester | eLearnSecurity | ✅ Earned |
-| 🔍 CompTIA Security+ | CompTIA ✅ Earned |
+| 🔍 CompTIA Security+ | CompTIA | ✅ Earned |
 | 🔐 CompTIA Cysa+ | CompTIA | 🔄 In Progress |
 | 📊 SC 200 | Microsoft Sentinerl | 🔄 In Progress |
 | 🌐 PNPT | TCM Secuirty | 🔄 In Progress |
