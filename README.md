@@ -69,7 +69,7 @@ Currently: Deepening SOC L1/L2 skills, building home lab environments, and targe
 ![SIEM](https://img.shields.io/badge/SIEM-blue?style=flat-square)
 ![SOAR](https://img.shields.io/badge/SOAR-blueviolet?style=flat-square)
 ![EDR](https://img.shields.io/badge/EDR-red?style=flat-square)
-![Sentinel](https://img.shields.io/badge/QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Sentinel-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 ### 🌐 Networking & Infrastructure
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=flat-square)
