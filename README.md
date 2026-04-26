@@ -36,7 +36,7 @@ What makes me different:
 - 🎯 I don't just run tools — I **understand what attackers think**
 - 🌍 **Bilingual (FR/EN)** — effective in Quebec's bilingual enterprise security environments
 - 🤖 Actively integrating **AI into cybersecurity workflows** for smarter threat analysis
-- 🏗️ Built experience across **offensive security**, **IT infrastructure**, **technical support**, and **logistics systems** — giving me rare full-stack situational awareness
+- 🏗️ Built experience across **Cybersecurity**, **IT infrastructure**, **technical support**
 
 Currently: Deepening SOC L1/L2 skills, building home lab environments, and targeting a **SOC Analyst / Junior Pentest** role.
 
@@ -47,9 +47,8 @@ Currently: Deepening SOC L1/L2 skills, building home lab environments, and targe
 ```
 🔬  Building a SOC Home Lab with Splunk + Wazuh + custom detection rules
 🐛  Practicing web app exploitation labs (OWASP Top 10 focus)
-📱  Documenting Android vulnerability research findings
 🤖  Experimenting with AI-assisted threat hunting workflows
-📚  Pursuing CompTIA Security+ & eJPT certifications
+📚  Pursuing CompTIA Cysa+ & Azure certifications
 ```
 
 ---
@@ -180,28 +179,26 @@ Building a virtualized SOC environment to simulate real attack scenarios and pra
 |---|---|---|
 | 🎓 MEng — Information Systems Security | Concordia University | ✅ Completed |
 | 🛡️ Certified in Cybersecurity (CC) | ISC² | ✅ Earned |
-| 🔍 Junior Penetration Tester | TryHackMe | ✅ Earned |
-| 📡 SOC Level 1 — Alert Reporting | TryHackMe | ✅ Completed |
-| 🔐 CompTIA Security+ | CompTIA | 🔄 In Progress |
-| ⚔️ eJPT — Junior Penetration Tester | eLearnSecurity | 🔄 Targeting |
-| 🤖 AI in Cybersecurity | LinkedIn Learning | 🔄 Ongoing |
-| 📊 Splunk Fundamentals 1 | Splunk | ✅ Completed |
-| 🌐 CCST Cybersecurity | Cisco | ✅ Completed |
+| ⚔️ eJPT — Junior Penetration Tester | eLearnSecurity | ✅ Earned |
+| 🔍 CompTIA Security+ | CompTIA ✅ Earned |
+| 🔐 CompTIA Cysa+ | CompTIA | 🔄 In Progress |
+| 📊 SC 200 | Microsoft Sentinerl | 🔄 In Progress |
+| 🌐 PNPT | TCM Secuirty | 🔄 In Progress |
 
 ---
 
 ## 💼 Why Hire Me
-*(Written from a recruiter's perspective)*
+
 
 ```
 ✅  Academic depth  — MEng in Information Systems Security, not a bootcamp graduate
 ✅  Attacker mindset  — Real offensive security research, not just theory
 ✅  Bilingual         — Operates natively in FR/EN Montreal enterprise environments
-✅  Full-stack vision — Security + networking + IT ops + app dev = rare combo
+✅  Full-stack vision — Security + networking + IT ops 
 ✅  AI-forward        — Actively applying AI/ML tools to cybersecurity workflows
-✅  Documented growth — Certifications, TryHackMe, and continuous learning on record
-✅  Communication     — Tech support background = can explain security to non-technical stakeholders
-✅  Immediately ready — Montreal-based, no relocation required
+✅  Documented growth — Certifications, CTF Practice, and continuous learning on record
+✅  Communication     — Tech support background, So i can explain security to non-technical stakeholders
+✅  Immediately ready — Montreal-based/ Canada (Remote) , no relocation required
 ```
 
 > 💡 *"Arafat brings something rare: a researcher's curiosity combined with practitioner's discipline. He understands the attacker's playbook — which makes him an exceptional defender."*
@@ -231,14 +228,10 @@ I'm actively seeking **SOC Analyst**, **Junior Penetration Tester**, or **Cybers
 If you're hiring or know someone who is — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arafat-mdyeasin)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafat.onlineall@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/See_My_TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
 
 ---
-
-*Open to: Full-time · Contract · Internship*
-*Languages: English 🇬🇧 · French 🇫🇷*
-*Clearance: Available for background checks*
 
 </div>
 
