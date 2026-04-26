@@ -181,8 +181,9 @@ Building a virtualized SOC environment to simulate real attack scenarios and pra
 | 🛡️ Certified in Cybersecurity (CC) | ISC² | ✅ Earned |
 | ⚔️ eJPT — Junior Penetration Tester | eLearnSecurity | ✅ Earned |
 | 🔍 CompTIA Security+ | CompTIA | ✅ Earned |
+| 📊 SC-900 Microsoft Security Fundamentals | Microsoft | ✅ Earned |
 | 🔐 CompTIA Cysa+ | CompTIA | 🔄 In Progress |
-| 📊 SC 200 | Microsoft Sentinerl | 🔄 In Progress |
+| 📊 Microsoft Certified Security Analyst (SC-200) | Microsoft | 🔄 In Progress |
 | 🌐 PNPT | TCM Secuirty | 🔄 In Progress |
 
 ---
