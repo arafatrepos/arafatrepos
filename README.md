@@ -69,7 +69,7 @@ Currently: Deepening SOC L1/L2 skills, building home lab environments, and targe
 ![SIEM](https://img.shields.io/badge/SIEM-blue?style=flat-square)
 ![SOAR](https://img.shields.io/badge/SOAR-blueviolet?style=flat-square)
 ![EDR](https://img.shields.io/badge/EDR-red?style=flat-square)
-![QRadar](https://img.shields.io/badge/QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Sentinel](https://img.shields.io/badge/QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 ### 🌐 Networking & Infrastructure
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=flat-square)
@@ -84,7 +84,7 @@ Currently: Deepening SOC L1/L2 skills, building home lab environments, and targe
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 
 ### ☁️ Platforms & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -92,7 +92,7 @@ Currently: Deepening SOC L1/L2 skills, building home lab environments, and targe
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)
+
 
 ---
 
